@@ -1,13 +1,9 @@
 # Bay Ridge Restaurant Guide
-## Asian
+## European
 ---
-Select a specific Asian food:
-## [Omonia Cafe](https://omoniacafe.com/)
+Select a specific European food:
+## [greek](../eurpean/greek.md)
 
-## [Something Greek](https://www.somethinggreek.com/)
-
-## [Tanoreen](https://tanoreen.com/)
-
-## [The Family Store](http://familystorecooks.com/)
+## [mediterranean](../european/mediterranean.md)
 ---
 [Start Over](../home.md)
